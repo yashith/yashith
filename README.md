@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Yashith
+![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
+
+I'm Yashith
 
 <!--
 **yashith/yashith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
