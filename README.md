@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashith&show_icons=true&count_private=true&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=yashith)
