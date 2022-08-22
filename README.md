@@ -1,4 +1,4 @@
-![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
+![](https://gfycat.com/meagerhardtofindalbertosaurus)  
 
 I'm Yashith
 
