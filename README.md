@@ -2,7 +2,7 @@ I'm Yashith
 
 IDK how...
 
-![](https://media.giphy.com/media/85Q7aV4R5bxDO/giphy.gif](https://media.giphy.com/media/RQ8A58CjUdtq8/giphy.gif)  
+![](https://media.giphy.com/media/RQ8A58CjUdtq8/giphy.gif)
 
 <!--
 **yashith/yashith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
