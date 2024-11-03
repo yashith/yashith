@@ -2,7 +2,7 @@ I'm Yashith
 
 And
 
-![](https://tenor.com/view/batman-superhero-gif-26117090)
+![](./batman-superhero.gif)
 
 <!--
 **yashith/yashith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
