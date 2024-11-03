@@ -1,8 +1,8 @@
 I'm Yashith
 
-IDK how...
+And
 
-![](https://media.giphy.com/media/RQ8A58CjUdtq8/giphy.gif)
+![]([https://media.giphy.com/media/RQ8A58CjUdtq8/giphy.gif](https://tenor.com/bVKpy.gif))
 
 <!--
 **yashith/yashith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
